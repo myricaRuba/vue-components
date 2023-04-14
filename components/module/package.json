@@ -1,0 +1,14 @@
+{
+  "name": "byte-custom-module",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://192.168.3.9:9097/repository/byte-fore-end-components-hosted/"
+  }
+}
